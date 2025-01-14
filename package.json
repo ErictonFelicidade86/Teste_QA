@@ -1,0 +1,16 @@
+{
+  "name": "teste_qa",
+  "version": "1.0.0",
+  "description": "Teste QA",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "test:cy": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "Ericton Brito",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
