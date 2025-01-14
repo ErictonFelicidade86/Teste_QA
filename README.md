@@ -1,12 +1,9 @@
 # Teste_QA
 
-## Sobre
-
-Repositório do treinamento: Workflow de testes contínuos em Cypress de API no Github Actions
-
 ## Stacks
 - Cypress
 - Javascript
+- Node
 
 ## Rodando
 
